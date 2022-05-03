@@ -15,7 +15,7 @@ To be able to trade on NFT marketplace make sure
 
 Testing-
 1. npm install
-2. mpx hardhat clean
+2. npx hardhat clean
 3. npx hardhat compile
 4. npx hardhat test
 
